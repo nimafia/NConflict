@@ -1,5 +1,6 @@
 #NConflict - Duplicate IP Bomber in Python
 #Advertising fake duplicate IP of all nodes for conflicting network. 
+#NConflict - Conflicting network with some simple tricks : https://github.com/nimafia/NConflict
 
 import socket
 import sys
